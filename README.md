@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Moulali, Currently workibg @ RedHat
+- 👋 Hi, I’m Moulali, Currently working @ RedHat
 - 👀 I’m interested in Listning to music and learning new Technologies 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate more on opensource
